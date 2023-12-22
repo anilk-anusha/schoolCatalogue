@@ -19,11 +19,11 @@ This project is a part of the LEARN INTERMEDIATE JAVASCRIPT course from Codecade
 
 ## To-do List
 
-- [ ] Create parent and three child classes with the mentioned properties, getters, setters, and methods
-- [ ] Create ParentSchool Class
-- [ ] Create PrimarySchool Class
-- [ ] Create HighSchool Class
-- [ ] Instances of PrimarySchool and HighSchool
+- [x] Create parent and three-child classes with the mentioned properties, getters, setters, and methods
+- [x] Create ParentSchool Class
+- [x] Create PrimarySchool Class
+- [x] Create HighSchool Class
+- [x] Instances of PrimarySchool and HighSchool
 
 
 ## Technologies
